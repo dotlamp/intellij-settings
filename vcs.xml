@@ -6,7 +6,16 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="dotlamp@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://DI-SOLUTION:32503/developer1/albamen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://DI-SOLUTION:32503" />
+          <option name="userName" value="jynam" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\dotlamp\java" />
   </component>
 </application>
