@@ -14,9 +14,13 @@
           <option name="url" value="http://DI-SOLUTION:32503" />
           <option name="userName" value="jynam" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dotlamp/albamen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dotlamp\java" />
+    <option name="cloneParentDir" value="C:\jynam\team_project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
