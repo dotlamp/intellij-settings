@@ -1,0 +1,10 @@
+<templateSet group="JY">
+  <template name="clg" value="console.log($name$);" shortcut="TAB" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
